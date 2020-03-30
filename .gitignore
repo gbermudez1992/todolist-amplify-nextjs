@@ -1,5 +1,9 @@
 node_modules
 .next
+.serverless
+.serverless_nextjs
+.env
+accessKeys.csv
 
 out
 

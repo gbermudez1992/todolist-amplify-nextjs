@@ -19,7 +19,8 @@
     "nanoid": "^2.0.3",
     "next": "^9.0.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "serverless": "^1.67.0"
   },
   "devDependencies": {
     "@types/node": "^12.6.8",
