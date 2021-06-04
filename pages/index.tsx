@@ -35,7 +35,7 @@ type Listener<T> = Observable<{ value: { data: T } }>;
 
 const MY_ID = nanoid();
 
-API.configure(config);
+API.configure({...config, ssr: true});
 
 type Todo = {
   id: string;
